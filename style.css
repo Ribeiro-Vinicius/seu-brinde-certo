@@ -1,0 +1,15 @@
+    a
+    {
+    position: center;
+}
+
+
+.carousel-item, .carousel-inner{
+    padding: 85px;
+    
+}
+
+.navbar-toggler-icon{
+    padding-left: 25px;
+}
+
