@@ -1,15 +1,49 @@
-    a
-    {
-    position: center;
+ .container-fluid{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+.navbar-expand-lg{
+    padding: 5px;
+    background-color: red;
 }
 
 
 .carousel-item, .carousel-inner{
-    padding: 85px;
+    padding: 285px;
+    
+    padding-bottom: 50px;
+    background: 15px;
+    background-color: rgb(202, 200, 200);
+}
+
+
+.navbar-brand{
+    padding-left: 315px;
+    border-color: black;
+    border: 20px;
+}
+
+.whatsapp-icon{
+    position: relative;
+    height: 50px;
+    padding-right: 50px;
+
+}
+
+.bi-star-fill{
+    padding-right: 5px;
     
 }
 
-.navbar-toggler-icon{
-    padding-left: 25px;
+.carousel-inner{
+    padding-top: 0px;
+    
 }
+
+.carousel-item{
+    padding-top: 20px;
+    
+}
+
 
